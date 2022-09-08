@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ThirdPartyLibrary1
+{
+    class Address
+    {
+    FirstName,LastName,Address,city,state,code
+    John,Doe,128,street,Nj,Ny,080867
+    Jack,Mcgennie,129,street,Nj,Ny,080868
+    }
+}
